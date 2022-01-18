@@ -6,9 +6,9 @@ let studenti = [
     eta: "18"
 },
 {
-    nome = "Filippo",
-    cognome = "Schisano",
-    eta = 42
+    nome: "Filippo",
+    cognome: "Schisano",
+    eta: 42
 },
 ];
 
